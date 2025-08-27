@@ -10,27 +10,6 @@ Incluye:
 - 🐳 Docker para contenerización y despliegue local
 - ✅ Pruebas unitarias e integración
 
----
-
-## 📁 Estructura del Proyecto
-
-```
-RealEstateMillion/
-│
-├── RealEstate.Api/                             # API principal
-├── RealEstate.Application/                    # Lógica de aplicación (casos de uso)
-├── RealEstate.Domain/                         # Entidades y lógica de dominio
-├── RealEstate.Infrastructure/                 # Acceso a datos, servicios externos
-├── RealEstate.Application.UnitTests/          # Pruebas unitarias
-├── RealEstate.Infrastructure.Tests.Integration/  # Pruebas de integración
-│
-├── real-estate-client/                        # Frontend en React + Vite
-├── docker-compose.yml                         # Orquestación de servicios
-└── RealEstateMillion.sln                      # Solución de Visual Studio
-```
-
----
-
 ## 🚀 Cómo Ejecutar el Proyecto
 
 ### 🔁 Requisitos Previos
@@ -38,8 +17,6 @@ RealEstateMillion/
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
 - [Node.js y npm](https://nodejs.org/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
-
----
 
 ### 🔧 Levantar el Backend (.NET API)
 
@@ -51,7 +28,6 @@ dotnet run
 - API disponible en: `https://localhost:7186`
 - Usa CORS habilitado para desarrollo local con el frontend
 
----
 
 ### 💻 Levantar el Frontend (React + Vite)
 
