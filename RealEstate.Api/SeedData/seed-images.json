@@ -1,0 +1,74 @@
+[
+  {
+    "idPropertyImage": "e801b71b-d3c2-4fc8-b971-38c142428796",
+    "idProperty": "e9b576d3-poeb-4c12-9592-561289cfa7cc",
+    "file": "https://placehold.co/400",
+    "enabled": true
+  },
+  {
+    "idPropertyImage": "b2c6c12d-0e9d-4ffb-8a8b-51e4e42e2c7b",
+    "idProperty": "e9b576d3-poeb-4c12-9592-561289cfa7cc",
+    "file": "https://placehold.co/400",
+    "enabled": false
+  },
+  {
+    "idPropertyImage": "114e8adf-e42b-434d-8ab5-c6fe9012a16b",
+    "idProperty": "e9b576d3-c6eb-4672-9592-561289cfa7cc",
+    "file": "https://placehold.co/400",
+    "enabled": true
+  },
+  {
+    "idPropertyImage": "d4c202c0-2a49-4a6a-9fe6-6786b9f0148c",
+    "idProperty": "e9b576d3-c6eb-4672-9592-561289cfa7cc",
+    "file": "https://placehold.co/400",
+    "enabled": false
+  },
+  {
+    "idPropertyImage": "21da4f55-b487-424e-aca5-4d8ccd6467b4",
+    "idProperty": "g7b576d3-c6eb-4c12-9592-561289cfa7cc",
+    "file": "https://placehold.co/400",
+    "enabled": true
+  },
+  {
+    "idPropertyImage": "0b8fe26f-89b0-4450-85eb-2b7e285c8b47",
+    "idProperty": "g7b576d3-c6eb-4c12-9592-561289cfa7cc",
+    "file": "https://placehold.co/400",
+    "enabled": false
+  },
+  {
+    "idPropertyImage": "b82ea87c-1b34-465c-a2f0-7d38bb8dcf9a",
+    "idProperty": "rtb576d3-c6eb-4c12-9592-561289cfa7cc",
+    "file": "https://placehold.co/400",
+    "enabled": true
+  },
+  {
+    "idPropertyImage": "fec1eb3d-3743-4abb-816a-689beaeec0c2",
+    "idProperty": "rtb576d3-c6eb-4c12-9592-561289cfa7cc",
+    "file": "https://placehold.co/400",
+    "enabled": false
+  },
+  {
+    "idPropertyImage": "5e7dc0a9-3f6c-4aa7-8eb2-a1f809fe3742",
+    "idProperty": "e9b576d3-c6eb-4c12-9592-561289cfa755",
+    "file": "https://placehold.co/400",
+    "enabled": true
+  },
+  {
+    "idPropertyImage": "ba005417-a9ae-41ea-a266-b3653199e116",
+    "idProperty": "e9b576d3-c6eb-4c12-9592-561289cfa755",
+    "file": "https://placehold.co/400",
+    "enabled": false
+  },
+  {
+    "idPropertyImage": "bf324ce6-4a62-46d4-b61e-74f7d9ca357e",
+    "idProperty": "e9b576d3-c6eb-4c12-9592-561289cfa7c5",
+    "file": "https://placehold.co/400",
+    "enabled": true
+  },
+  {
+    "idPropertyImage": "e9b576d3-c6eb-4c12-9592-561289cfa7cc",
+    "idProperty": "e9b576d3-c6eb-4c12-9592-561289cfa7c5",
+    "file": "https://placehold.co/400",
+    "enabled": false
+  }
+]

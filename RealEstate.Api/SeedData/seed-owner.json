@@ -1,0 +1,44 @@
+[
+  {
+    "idOwner": "own-001",
+    "name": "Griselda de Valls",
+    "address": "Callejon Lucas Porta 1 Apt. 10 , Vizcaya, 32180",
+    "photo": "https://placehold.co/400",
+    "birthday": "1984-01-08"
+  },
+  {
+    "idOwner": "own-002",
+    "name": "Jovita Villa Uriarte",
+    "address": "Ronda de Isa Borrego 72 Apt. 89 , Ceuta, 56308",
+    "photo": "https://placehold.co/400",
+    "birthday": "1987-05-11"
+  },
+  {
+    "idOwner": "own-003",
+    "name": "Maria Luisa Suarez Gual",
+    "address": "Ronda Eustaquio Cizar 108, Castellon, 51137",
+    "photo": "https://placehold.co/400",
+    "birthday": "1969-08-14"
+  },
+  {
+    "idOwner": "own-004",
+    "name": "Ruperto Escribano Menendez",
+    "address": "Camino de Candela Espanol 1, Santa Cruz de Tenerife, 31426",
+    "photo": "https://placehold.co/400",
+    "birthday": "1986-01-29"
+  },
+  {
+    "idOwner": "own-005",
+    "name": "Chema Juan Jose Font Castillo",
+    "address": "Casada Pepita Sureda 965, Badajoz, 39932",
+    "photo": "https://placehold.co/400",
+    "birthday": "1981-12-15"
+  },
+  {
+    "idOwner": "own-050",
+    "name": "Lidia Luisina Mendez Bru",
+    "address": "Alameda Luis Soriano 8, Baleares, 33999",
+    "photo": "https://placehold.co/400",
+    "birthday": "1979-04-21"
+  }
+]   

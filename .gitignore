@@ -1,0 +1,27 @@
+# --- Visual Studio ---
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# --- Build ---
+bin/
+obj/
+
+# --- Frontend (React/Vite/Node) ---
+real-estate-client/node_modules/
+real-estate-client/dist/
+real-estate-client/.env
+
+# --- Docker ---
+docker-compose.override.yml
+
+# --- General ---
+*.db
+*.sqlite
+*.pdb
+*.vsidx
+.DS_Store
+.idea/
+*.iml

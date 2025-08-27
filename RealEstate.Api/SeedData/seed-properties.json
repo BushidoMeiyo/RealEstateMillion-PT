@@ -1,0 +1,56 @@
+[
+  {
+    "idProperty": "e9b576d3-c6eb-4c12-9592-561289cfa7c5",
+    "name": "Maxime harum",
+    "address": "Cuesta de Isaura Gimenez 2 Apt. 07 , Vizcaya, 44747",
+    "price": 325921,
+    "codeInternal": "CI-001",
+    "year": 1995,
+    "idOwner": "own-001"
+  },
+  {
+    "idProperty": "e9b576d3-c6eb-4c12-9592-561289cfa755",
+    "name": "Assumenda mollitia excepturi",
+    "address": "Via Angelita Tello 4, Ourense, 69899",
+    "price": 275686,
+    "codeInternal": "CI-002",
+    "year": 2007,
+    "idOwner": "own-002"
+  },
+  {
+    "idProperty": "rtb576d3-c6eb-4c12-9592-561289cfa7cc",
+    "name": "Facere fugiat",
+    "address": "Urbanizacion de Pio Mur 57, Segovia, 65960",
+    "price": 380098,
+    "codeInternal": "CI-003",
+    "year": 2023,
+    "idOwner": "own-003"
+  },
+  {
+    "idProperty": "g7b576d3-c6eb-4c12-9592-561289cfa7cc",
+    "name": "Nisi repellendus aut",
+    "address": "Casada de Rita Alegre 46 Apt. 12 , Palencia, 12375",
+    "price": 778953,
+    "codeInternal": "CI-004",
+    "year": 1998,
+    "idOwner": "own-004"
+  },
+  {
+    "idProperty": "e9b576d3-c6eb-4672-9592-561289cfa7cc",
+    "name": "Blanditiis facilis debitis",
+    "address": "Vial de Mamen Almazon 83, Navarra, 35804",
+    "price": 656485,
+    "codeInternal": "CI-005",
+    "year": 2007,
+    "idOwner": "own-005"
+  },
+  {
+    "idProperty": "e9b576d3-poeb-4c12-9592-561289cfa7cc",
+    "name": "Sint distinctio",
+    "address": "Plaza de Serafina Osorio 47, Vizcaya, 35241",
+    "price": 536734,
+    "codeInternal": "CI-050",
+    "year": 2005,
+    "idOwner": "own-050"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "idPropertyTrace": "6f2437e0-2d6f-41e3-8d53-2f965783d62c",
+    "idProperty": "e9b576d3-c6eb-4c12-9592-561289cfa7c5",
+    "dateSale": "2023-01-26",
+    "name": "Venta 1",
+    "value": 325921,
+    "tax": 0.05
+  },
+  {
+    "idPropertyTrace": "e8a0729b-eb80-4e36-86d5-28903b24fe5f",
+    "idProperty": "e9b576d3-c6eb-4c12-9592-561289cfa7c5",
+    "dateSale": "2021-10-03",
+    "name": "Venta 2",
+    "value": 369302,
+    "tax": 0.08
+  },
+  {
+    "idPropertyTrace": "ee6abe5c-0b23-4578-9c94-ae7cf943bac0",
+    "idProperty": "e9b576d3-c6eb-4c12-9592-561289cfa755",
+    "dateSale": "2023-01-06",
+    "name": "Venta 1",
+    "value": 275686,
+    "tax": 0.08
+  },
+  {
+    "idPropertyTrace": "b33197ee-0b7f-4ad6-97b4-dbf09a002cdd",
+    "idProperty": "e9b576d3-c6eb-4c12-9592-561289cfa755",
+    "dateSale": "2022-01-18",
+    "name": "Venta 2",
+    "value": 321307,
+    "tax": 0.09
+  },
+  {
+    "idPropertyTrace": "6f0da614-c16e-4e5e-b672-4300dc21ad9b",
+    "idProperty": "e9b576d3-c6eb-4c12-9592-561289cfa755",
+    "dateSale": "2021-08-17",
+    "name": "Venta 3",
+    "value": 354534,
+    "tax": 0.05
+  },
+  {
+    "idPropertyTrace": "639fb554-3642-4858-95c5-3ef4320210c3",
+    "idProperty": "rtb576d3-c6eb-4c12-9592-561289cfa7cc",
+    "dateSale": "2023-09-09",
+    "name": "Venta 1",
+    "value": 380098,
+    "tax": 0.06
+  },
+  {
+    "idPropertyTrace": "c3351f8f-72ca-4490-9881-d117b2a17d2c",
+    "idProperty": "rtb576d3-c6eb-4c12-9592-561289cfa7cc",
+    "dateSale": "2023-08-31",
+    "name": "Venta 2",
+    "value": 428631,
+    "tax": 0.05
+  },
+  {
+    "idPropertyTrace": "74c83884-b78b-447c-bac0-6cff7126d25f",
+    "idProperty": "rtb576d3-c6eb-4c12-9592-561289cfa7cc",
+    "dateSale": "2022-05-28",
+    "name": "Venta 3",
+    "value": 439214,
+    "tax": 0.09
+  },
+  {
+    "idPropertyTrace": "16b9e61e-cb8c-4463-9810-05fd7bc0cb47",
+    "idProperty": "g7b576d3-c6eb-4c12-9592-561289cfa7cc",
+    "dateSale": "2022-03-28",
+    "name": "Venta 1",
+    "value": 778953,
+    "tax": 0.07
+  },
+  {
+    "idPropertyTrace": "476be53e-8a04-4a6b-a61e-c9ace5ca9449",
+    "idProperty": "e9b576d3-c6eb-4672-9592-561289cfa7cc",
+    "dateSale": "2022-08-24",
+    "name": "Venta 1",
+    "value": 656485,
+    "tax": 0.06
+  },
+  {
+    "idPropertyTrace": "dd03267f-e7e8-4e1c-bdcf-6dadc1272c7b",
+    "idProperty": "e9b576d3-poeb-4c12-9592-561289cfa7cc",
+    "dateSale": "2023-03-25",
+    "name": "Venta 1",
+    "value": 536734,
+    "tax": 0.07
+  }
+]
